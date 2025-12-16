@@ -76,11 +76,6 @@ st.markdown("""
         font-weight: 600;
     }
     
-    /* Sidebar styling */
-    [data-testid="stSidebar"] {
-        background: #f5f5f5;
-    }
-    
     /* Alert boxes */
     .stAlert {
         border-radius: 10px;
