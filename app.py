@@ -78,7 +78,7 @@ st.markdown("""
     
     /* Sidebar styling */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #f8fafc 0%, #e2e8f0 100%);
+        background: #f5f5f5;
     }
     
     /* Alert boxes */
