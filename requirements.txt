@@ -1,0 +1,9 @@
+streamlit
+streamlit-autorefresh
+websockets
+pandas
+numpy
+duckdb
+plotly
+statsmodels
+scikit-learn
