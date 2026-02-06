@@ -7,7 +7,7 @@ A real-time quantitative analytics application for statistical arbitrage and mea
 
 ## 🎯 Project Overview
 
-This project was developed as part of a quantitative developer evaluation assignment. It demonstrates end-to-end capability in:
+This project demonstrates end-to-end capability in:
 - Real-time data ingestion and storage
 - Statistical analytics for pairs trading
 - Interactive visualization and user controls
